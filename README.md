@@ -4,7 +4,7 @@ An improved variant of [OSTA](https://github.com/styg1an0fficial/O.S.T.A/edit/ma
 
 Over Simplified Stock Trading App (OSTA): Uses a Long Term Short Term Recurrent Neural Network trained on decades of stock data to predict the movement of the stock price over the next week or so. Special features include dynamic adaptability to company performance, the ability to retain successful strategies in memory, and feedback connections, allowing it to process entire sequences of data, not just individual data points.
 
-**Make sure to create a SQL server first through the sql file, then update your details at line 18 in main.**
+**Make sure to create a SQL server first through the sql file, then update your details at line 86 in `main`.**
 - LSTM RNN model from [keras](https://keras.io/)
 - GUI created using [flet](https://flet.dev/)
 - Stock data retreived using [yfinance](https://pypi.org/project/yfinance/).
