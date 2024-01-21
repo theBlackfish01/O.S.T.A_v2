@@ -17,7 +17,7 @@ Over Simplified Stock Trading App (OSTA): Uses a Long Term Short Term Recurrent 
 
 ![picture](https://github.com/theBlackfish01/O.S.T.A_v2/blob/main/Picture1.png)
 ![picture](https://github.com/theBlackfish01/O.S.T.A_v2/blob/main/Picture2.png)
-![picture](https://github.com/theBlackfish01/O.S.T.A_v2/blob/main/Picture3.png)
+![picture](https://github.com/theBlackfish01/O.S.T.A_v2/blob/main/Picture3T.png)
 
 <br>
 
