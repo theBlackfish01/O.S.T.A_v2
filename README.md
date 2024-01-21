@@ -15,9 +15,9 @@ Over Simplified Stock Trading App (OSTA): Uses a Long Term Short Term Recurrent 
 - Searching and pressing purchase creates new tuples in SQL server.
 <br>
 
-![picture](https://github.com/styg1an0fficial/O.S.T.A/assets/113419133/4d17d93d-34cf-4c38-9522-0d178dc8e22f)
-![picture](https://github.com/styg1an0fficial/O.S.T.A/assets/113419133/4d17d93d-34cf-4c38-9522-0d178dc8e22f)
-![picture](https://github.com/styg1an0fficial/O.S.T.A/assets/113419133/4cc5d6ed-cc5e-4d75-a63f-69e8018ad27f)
+![picture](https://github.com/theBlackfish01/O.S.T.A_v2/blob/main/Picture1.png)
+![picture](https://github.com/theBlackfish01/O.S.T.A_v2/blob/main/Picture2.png)
+![picture](https://github.com/theBlackfish01/O.S.T.A_v2/blob/main/Picture3.png)
 
 <br>
 
